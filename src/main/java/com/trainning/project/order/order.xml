@@ -1,0 +1,146 @@
+<ORDERS>
+    <order id="058F48DA33694C6D8F5C2C13F3D26CEA">
+    <ordertime>2013-12-26T21:47:04Z</ordertime>
+    <total>95.30</total>
+    <status>已发货</status>
+    <recipients>李女士</recipients>
+    <address>广东省 揭阳市 揭东县</address>
+    <phone>18812345678</phone>
+    </order>
+    <order id="065056EFA3914273B6B266A2414A38FA">
+    <ordertime>2014-01-01T17:04:19Z</ordertime>
+    <total>74.50</total>
+    <status>已签收</status>
+    <recipients>王先生</recipients>
+    <address>北京市 北京市 宣武区</address>
+    <phone>18812341234</phone>
+    </order>
+    <order id="0A1F4C5BDE754277B984D1E7E763051D">
+    <ordertime>2014-01-16T15:18:47Z</ordertime>
+    <total>41.30</total>
+    <status>已签收</status>
+    <recipients>张三爷</recipients>
+    <address>北京市 昌平区 西三旗 金燕龙办公楼</address>
+    <phone>18812341234</phone>
+    </order>
+    <order id="0FD72F77655D43E2B7989892E965864D">
+    <ordertime>2013-12-30T20:05:53Z</ordertime>
+    <total>88.70</total>
+    <status>未发货</status>
+    <recipients>王先生</recipients>
+    <address>北京市 北京市 宣武区</address>
+    <phone>18812344567</phone>
+    </order>
+    <order id="32DB3700D2564254982BC58B0E4D95BC">
+    <ordertime>2013-12-30T20:05:53Z</ordertime>
+    <total>74.50</total>
+    <status>已关闭</status>
+    <recipients>关先生</recipients>
+    <address>云南省 曲靖市 宣威市</address>
+    <phone>18812344562</phone>
+    </order>
+    <order id="32739173C1E247558358B1A8FE9FE012">
+    <ordertime>2014-01-01T13:57:41Z</ordertime>
+    <total>74.50</total>
+    <status>已发货</status>
+    <recipients>李先生</recipients>
+    <address>广东省 揭阳市 揭东县</address>
+    <phone>18812344566</phone>
+    </order>
+    <order id="553AFF48D76A48AD89ED3FE8F7E2F587">
+    <ordertime>2013-12-26T21:54:43Z</ordertime>
+    <total>109.00</total>
+    <status>已发货</status>
+    <recipients>张小姐</recipients>
+    <address>上海市 上海市 浦东新区</address>
+    <phone>18812348899</phone>
+    </order>
+    <order id="6504C742FE65413494E028E714D4D609">
+    <ordertime>2014-01-16T14:54:43Z</ordertime>
+    <total>41.30</total>
+    <status>已签收</status>
+    <recipients>王小姐</recipients>
+    <address>北京市 昌平区 西三旗 金燕龙办公楼</address>
+    <phone>18812341122</phone>
+    </order>
+    <order id="984468779C164A6098A7FE7EECE9E273">
+    <ordertime>2014-01-16T15:16:15Z</ordertime>
+    <total>41.30</total>
+    <status>已签收</status>
+    <recipients>张先生</recipients>
+    <address>西藏 那曲地区 巴青县</address>
+    <phone>18812341133</phone>
+    </order>
+    <order id="F7E603F5179348B9BC3417B9BFB8558D">
+    <ordertime>2014-02-07T00:12:40Z</ordertime>
+    <total>68.10</total>
+    <status>已签收</status>
+    <recipients>张先生</recipients>
+    <address>西藏 那曲地区 巴青县</address>
+    <phone>18812341133</phone>
+    </order>
+    <order id="EC3696A4C443494A9B8DD6E8A9B82072">
+    <ordertime>2014-01-16T15:09:19Z</ordertime>
+    <total>74.10</total>
+    <status>运输中</status>
+    <recipients>张先生</recipients>
+    <address>北京市 昌平区 西三旗 金燕龙办公楼</address>
+    <phone>18812345566</phone>
+    </order>
+    <order id="E8AE477323214E99AB48BA38052BE974">
+    <ordertime>2014-01-16T14:17:39Z</ordertime>
+    <total>162.90</total>
+    <status>运输中</status>
+    <recipients>张先生</recipients>
+    <address>北京市 昌平区 西三旗 金燕龙办公楼</address>
+    <phone>18812345566</phone>
+    </order>
+    <order id="CE537015382640E1AE15B9A8FD08B9EE">
+    <ordertime>2013-12-26T21:53:34Z</ordertime>
+    <total>82.10</total>
+    <status>已签收</status>
+    <recipients>张女士</recipients>
+    <address>广东省 广州市 雨花区</address>
+    <phone>18812342255</phone>
+    </order>
+    <order id="FAB7B7F7084F4D57A0808ADC61117683">
+    <ordertime>2013-12-30T20:06:20Z</ordertime>
+    <total>74.50</total>
+    <status>已签收</status>
+    <recipients>刘女士</recipients>
+    <address>广东省 茂名市 电白县</address>
+    <phone>18812342211</phone>
+    </order>
+    <order id="1AFEC52D72C74266A6E36F83F9910B4F">
+    <ordertime>2015-01-16T15:12:20Z</ordertime>
+    <total>79.50</total>
+    <status>已签收</status>
+    <recipients>胡女士</recipients>
+    <address>广东省 惠州市 龙门县</address>
+    <phone>18812342200</phone>
+    </order>
+    <order id="2AFD7DC9619548BA2727464D77AFB9C2">
+    <ordertime>2014-05-16T15:12:20Z</ordertime>
+    <total>69.50</total>
+    <status>已签收</status>
+    <recipients>高先生</recipients>
+    <address>广东省 惠州市 惠东县</address>
+    <phone>18812342277</phone>
+    </order>
+    <order id="49127E9642C5474F58F2139204DE571C">
+    <ordertime>2014-05-23T15:12:20Z</ordertime>
+    <total>63.60</total>
+    <status>已关闭</status>
+    <recipients>顾先生</recipients>
+    <address>广东省 惠州市 惠东县</address>
+    <phone>18812342299</phone>
+    </order>
+    <order id="57856B1A295B430CA0F7991540897B47">
+    <ordertime>2014-08-23T15:45:20Z</ordertime>
+    <total>62.10</total>
+    <status>已关闭</status>
+    <recipients>顾先生</recipients>
+    <address>广东省 阳江市 阳东县</address>
+    <phone>18812342299</phone>
+    </order>
+</ORDERS>

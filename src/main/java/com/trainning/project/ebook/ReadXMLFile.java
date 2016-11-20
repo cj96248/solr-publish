@@ -1,4 +1,4 @@
-package com.trainning.project.book;
+package com.trainning.project.ebook;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -10,13 +10,13 @@ import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
 public class ReadXMLFile {
-    public static List<Book> getXMLFileList(String filepath) {
+    public static List<EBook> getXMLFileList(String filepath) {
         //创建文件对象
         File file = new File(filepath);
         //构建SAX读写器
         SAXReader saxReader = new SAXReader();
         //将XML文件内容保存在List中
-        List<Book> books = new ArrayList<Book>();
+        List<EBook> ebooks = new ArrayList<EBook>();
         try {
             //加载文件
             Document document = saxReader.read(file);
@@ -26,26 +26,26 @@ public class ReadXMLFile {
             List<Element> list = root.elements();
             //将文件元素内容赋值给java bean
             for(Element e : list){
-                Book book = new Book();
+                EBook book = new EBook();
                 book.setId(e.attributeValue("id"));
                 book.setCategory(e.attributeValue("category"));
                 book.setTitle(e.elementText("title"));
                 book.setAuthor(e.elementText("author"));
                 book.setPubDate(e.elementText("pubDate"));
                 book.setPublisher(e.elementText("publisher"));
-                book.setPages(Integer.parseInt(e.elementText("pages")));
+                book.setSize(e.elementText("size"));
                 book.setPrice(Double.parseDouble(e.elementText("price")));
                 System.out.println(book);
-                books.add(book);
+                ebooks.add(book);
             }
         } catch (DocumentException e) {
             e.printStackTrace();
         }
-        return books;
+        return ebooks;
     }
     
     public static void main(String[] args) {
-        String filepath = "src/main/java/com/trainning/project/book/book.xml";
+        String filepath = "src/main/java/com/trainning/project/ebook/ebook.xml";
         getXMLFileList(filepath);
     }
 }

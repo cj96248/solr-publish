@@ -1,0 +1,146 @@
+<EBOOKS>
+    <book id="9787535449481" category="文学">
+    <title>我不是潘金莲</title>
+    <author>刘震云</author>
+    <pubDate>2012-08-01</pubDate>
+    <publisher>长江文艺出版社</publisher>
+    <size>1.61M</size>
+    <price>7.99</price>
+    </book>
+    <book id="9787550282841" category="文学">
+    <title>请停止无效的努力</title>
+    <author>赵晓璃</author>
+    <pubDate>2016-10-01</pubDate>
+    <publisher>浙江大学出版社</publisher>
+    <size>1.08M</size>
+    <price>8.99</price>
+    </book>
+    <book id="9787550283169" category="文学">
+    <title>别爱上任何人</title>
+    <author>玛丽 库比卡</author>
+    <pubDate>2016-08-01</pubDate>
+    <publisher>中国华侨出版社</publisher>
+    <size>0.79M</size>
+    <price>12.00</price>
+    </book>
+    <book id="9787540477288" category="文学">
+    <title>致现任</title>
+    <author>芝士就是力量</author>
+    <pubDate>2016-09-01</pubDate>
+    <publisher>湖南文艺出版社</publisher>
+    <size>0.63M</size>
+    <price>11.99</price>
+    </book>
+    <book id="2020296104" category="文学">
+    <title>浮生六记</title>
+    <author>沈复</author>
+    <pubDate>2015-08-01</pubDate>
+    <publisher>天津人民出版社</publisher>
+    <size>217</size>
+    <price>22.80</price>
+    </book>
+    <book id="9787916001324" category="文学">
+    <title>他来了，请闭眼</title>
+    <author>丁墨</author>
+    <pubDate>2016-10-01</pubDate>
+    <publisher>三联书店</publisher>
+    <size>0.63M</size>
+    <price>2.90</price>
+    </book>
+    <book id="9787533946562" category="文学">
+    <title>当呼吸化为空气</title>
+    <author>保罗 卡拉尼仕</author>
+    <pubDate>2016-11-01</pubDate>
+    <publisher>浙江文艺出版社</publisher>
+    <size>0.26M</size>
+    <price>0</price>
+    </book>
+    <book id="9787111499756" category="IT">
+    <title>微信公众平台开发最佳实践</title>
+    <author>方倍工作室</author>
+    <pubDate>2015-05-01</pubDate>
+    <publisher>机械工业出版社</publisher>
+    <size>49.51M</size>
+    <price>25.00</price>
+    </book>
+    <book id="9787111552062" category="励志">
+    <title>学习之道</title>
+    <author>芭芭拉·奥克利</author>
+    <pubDate>2016-10-01</pubDate>
+    <publisher>机械工业出版社</publisher>
+    <size>6.03M</size>
+    <price>18.50</price>
+    </book>
+    <book id="9787115275790" category="编程">
+    <title>JavaScript高级程序设计</title>
+    <author>泽卡斯</author>
+    <pubDate>2012-03-01</pubDate>
+    <publisher>人民邮电出版社</publisher>
+    <size>12.59M</size>
+    <price>29.70</price>
+    </book>
+    <book id="9787111521235" category="编程">
+    <title>Python 数据分析与挖掘实战</title>
+    <author>张良均</author>
+    <pubDate>2015-12-01</pubDate>
+    <publisher>机械工业出版社</publisher>
+    <size>38.02M</size>
+    <price>25.00</price>
+    </book>
+    <book id="9787115222855" category="编程">
+    <title>C++从入门到精通</title>
+    <author>国家863中部软件孵化器</author>
+    <pubDate>2010-04-01</pubDate>
+    <publisher>人民邮电出版社</publisher>
+    <size>7.56M</size>
+    <price>2.00</price>
+    </book>
+    <book id="9787540468378" category="编程">
+    <title>SpringBoot揭秘：快速构建微服务体系</title>
+    <author>王福强</author>
+    <pubDate>2016-05-01</pubDate>
+    <publisher>机械工业出版社</publisher>
+    <size>6.28M</size>
+    <price>25.00</price>
+    </book>
+    <book id="9787111516682" category="编程">
+    <title>Android群英传：神兵利器</title>
+    <author>徐宜生</author>
+    <pubDate>2016-09-01</pubDate>
+    <publisher>电子工业出版社</publisher>
+    <size>4.78M</size>
+    <price>20.20</price>
+    </book>
+    <book id="9787111542131" category="编程">
+    <title>Java RESTful Web Service实战</title>
+    <author>韩陆</author>
+    <pubDate>2016-08-01</pubDate>
+    <publisher>机械工业出版社</publisher>
+    <size>5.4M</size>
+    <price>25.0</price>
+    </book>
+    <book id="9787880174106" category="其他">
+    <title>读报刊学英文：时代周刊</title>
+    <author>李丽君</author>
+    <pubDate>2011-06-01</pubDate>
+    <publisher>中国经济录音录像中心</publisher>
+    <size>64.58M</size>
+    <price>4.90</price>
+    </book>
+    <book id="9787308161459" category="历史">
+    <title>明朝那些事儿</title>
+    <author>当年明月</author>
+    <publisher>中国海关出版社</publisher>
+    <pubDate>2008-12-01</pubDate>
+    <size>2.13M</size>
+    <price>15.99</price>
+    </book>
+    <book id="9787916005519" category="儿童">
+    <title>舒克和贝塔</title>
+    <author>郑渊洁</author>
+    <pubDate>2016-08-01</pubDate>
+    <publisher>中信出版集团股份有限公司</publisher>
+    <size>20.67M</size>
+    <price>75.00</price>
+    </book>
+</EBOOKS>
