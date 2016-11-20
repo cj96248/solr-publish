@@ -1,4 +1,4 @@
-package com.trainning.project.json;
+package com.trainning.project.cd.json;
 
 import java.util.List;
 import java.util.UUID;
@@ -31,6 +31,7 @@ public class SolrPublisher {
             input.addField("company_s", cd.getCompany());
             input.addField("price_d", cd.getPrice());
             input.addField("year_s", cd.getYear());
+            input.addField("type_s", "光盘");
             input.addField("description_s", cd.getDescription());
             client.add(input);
         }

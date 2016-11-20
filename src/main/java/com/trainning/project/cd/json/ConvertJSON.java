@@ -1,4 +1,4 @@
-package com.trainning.project.json;
+package com.trainning.project.cd.json;
 
 import java.util.List;
 

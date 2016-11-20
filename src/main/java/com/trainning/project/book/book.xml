@@ -1,0 +1,145 @@
+<BOOKS>
+    <book id="1010296100" category="文学">
+    <title>平凡的世界</title>
+    <author>路遥</author>
+    <pubDate>2016-09-01</pubDate>
+    <publisher>北京十月文艺出版社</publisher>
+    <pages>688</pages>
+    <price>60.50</price>
+    </book>
+    <book id="1010296101" category="文学">
+    <title>你若安好 便是晴天</title>
+    <author>白落梅</author>
+    <pubDate>2016-10-01</pubDate>
+    <publisher>湖南文艺出版社</publisher>
+    <pages>272</pages>
+    <price>24.20</price>
+    </book>
+    <book id="1010296102" category="文学">
+    <title>相逢如初见，回首是一生</title>
+    <author>白落梅</author>
+    <pubDate>2014-08-01</pubDate>
+    <publisher>中国华侨出版社</publisher>
+    <pages>256</pages>
+    <price>22.00</price>
+    </book>
+    <book id="1010296103" category="文学">
+    <title>城南旧事</title>
+    <author>林海音</author>
+    <pubDate>2016-10-01</pubDate>
+    <publisher>云南人民出版社</publisher>
+    <pages>192</pages>
+    <price>24.30</price>
+    </book>
+    <book id="1010296104" category="文学">
+    <title>浮生六记</title>
+    <author>沈复</author>
+    <pubDate>2015-08-01</pubDate>
+    <publisher>天津人民出版社</publisher>
+    <pages>217</pages>
+    <price>22.80</price>
+    </book>
+    <book id="1010296105" category="文学">
+    <title>读在大好时光</title>
+    <author>魏小河</author>
+    <pubDate>2016-10-01</pubDate>
+    <publisher>三联书店</publisher>
+    <pages>264</pages>
+    <price>29.90</price>
+    </book>
+    <book id="1010296106" category="文学">
+    <title>因为你，我才喜欢这世界</title>
+    <author>米娅</author>
+    <pubDate>2016-09-01</pubDate>
+    <publisher>江苏凤凰出版社</publisher>
+    <pages>264</pages>
+    <price>24.20</price>
+    </book>
+    <book id="1010396100" category="IT">
+    <title>智能时代</title>
+    <author>吴军</author>
+    <pubDate>2016-09-01</pubDate>
+    <publisher>中信出版集团</publisher>
+    <pages>400</pages>
+    <price>51.00</price>
+    </book>
+    <book id="1010496100" category="励志">
+    <title>六顶思考帽</title>
+    <author>爱德华</author>
+    <pubDate>2016-10-01</pubDate>
+    <publisher>中信出版社</publisher>
+    <pages>232</pages>
+    <price>31.50</price>
+    </book>
+    <book id="1010596101" category="编程">
+    <title>java核心技术</title>
+    <author>霍斯特曼</author>
+    <pubDate>2014-01</pubDate>
+    <publisher>北京文艺出版社</publisher>
+    <pages>704</pages>
+    <price>80.8</price>
+    </book>
+    <book id="1010696102" category="编程">
+    <title>Linux运维最佳实践</title>
+    <author>杨俊俊</author>
+    <pubDate>2016-09-01</pubDate>
+    <publisher>机械工业出版社</publisher>
+    <pages>264</pages>
+    <price>58.70</price>
+    </book>
+    <book id="1010696103" category="编程">
+    <title>用Python写网络爬虫</title>
+    <author>理查德</author>
+    <pubDate>2016-08-01</pubDate>
+    <publisher>人民邮电出版社</publisher>
+    <pages>157</pages>
+    <price>37.70</price>
+    </book>
+    <book id="1010696104" category="编程">
+    <title>Vue.js权威指南</title>
+    <author>张耀春</author>
+    <pubDate>2016-09-01</pubDate>
+    <publisher>电子工业出版社</publisher>
+    <pages>157</pages>
+    <price>82.90</price>
+    </book>
+    <book id="1010696105" category="编程">
+    <title>Android群英传：神兵利器</title>
+    <author>徐宜生</author>
+    <pubDate>2016-09-01</pubDate>
+    <publisher>电子工业出版社</publisher>
+    <pages>157</pages>
+    <price>67.20</price>
+    </book>
+    <book id="1010696106" category="编程">
+    <title>Java编程思想</title>
+    <author>埃克尔</author>
+    <pubDate>2007-6-1</pubDate>
+    <publisher>机械工业出版社</publisher>
+    <pages>880</pages>
+    <price>30.0</price>
+    </book>
+    <book id="1010796100" category="教育">
+    <title>资格考试</title>
+    <author>教育集团</author>
+    <pubDate>2016-1-15</pubDate>
+    <publisher>北京教育出版社</publisher>
+    <pages>900</pages>
+    <price>80.8</price>
+    </book>
+    <book id="1010898100" category="喜剧">
+    <title>哈姆莱特</title>
+    <author>莎士比亚</author>
+    <publisher>上海文艺出版社</publisher>
+    <pubDate>2014-6-25</pubDate>
+    <pages>150</pages>
+    <price>14.3</price>
+    </book>
+    <book id="1010996100" category="儿童">
+    <title>父与子全集</title>
+    <author>卜劳恩</author>
+    <publisher>北京妇女儿童出版社</publisher>
+    <pages>192</pages>
+    <price>35.8</price>
+    </book>
+</BOOKS>
